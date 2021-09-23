@@ -1,5 +1,1 @@
-print ("How much money do people spend on school?")
-studyMoney = 602.02
-license = 120
-laptop = 800
-print ( studyMoney + license + laptop )
+print ("Hello wereld van\n\n   pppp    y     y   ttttttt   h   h    oooo   nnnn\n   p   p    y   y       t      h   h   o    o  n   n\n   p   p     y y        t      h   h   o    o  n   n\n   pppp       y         t      hhhhh   o    o  n   n\n   p          y         t      h   h   o    o  n   n\n   p          y         t      h   h   o    o  n   n\n   p          y         t      h   h    oooo   n   n\n")
