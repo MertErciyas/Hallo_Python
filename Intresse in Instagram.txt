@@ -1,0 +1,2 @@
+Waarom ik zo geïnteresseerd ben door Instagram is dat het allemaal via Python is gedaan en zo minimalistische mogelijk nog, en alsnog één van de bekenste platform
+is die er bestaat.
